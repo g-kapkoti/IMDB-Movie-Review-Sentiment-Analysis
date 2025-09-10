@@ -1,5 +1,7 @@
 # IMDB Movie Review Sentiment Analysis
 
+Live Demo: https://imdb-movie-review-sentiment-analysis-d6mnkaecjtbseeeiaaedlx.streamlit.app/
+
 This project is a Streamlit web application that classifies IMDB movie reviews as positive or negative using a pre-trained Simple RNN model.
 
 ## Features
